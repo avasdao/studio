@@ -1,6 +1,8 @@
 <script setup lang="ts">
 /* Set project details. */
-const { projectid, projectName } = await $fetch('/api/v1/project')
+// const { projectid, projectName } = await $fetch('/api/v1/project')
+const projectid = ''
+const projectName = ''
 
 </script>
 

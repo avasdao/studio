@@ -235,8 +235,8 @@ onMounted(() => {
         </section>
 
         <section class="max-w-5xl mx-auto mt-5 flex flex-col gap-5">
+            <h3 class="text-lg text-red-500 font-medium">NOTE:</h3>
             <p class="text-base text-gray-700">
-                <h3 class="text-lg text-red-500 font-medium">NOTE:</h3>
                 * Please use <NuxtLink to="https://wiserswap.com" target="_blank" class="text-lg text-blue-500 font-medium hover:underline">WiserSwap</NuxtLink> <em>(or ANY supporting DEX)</em> to purchase quantities under 10M $STUDIO.
             </p>
         </section>

@@ -9,7 +9,7 @@ useHead({
 /* Initialize stores. */
 import { useWalletStore } from '@/stores/wallet'
 import { useSystemStore } from '@/stores/system'
-const Wallet = useWalletStore()
+// const Wallet = useWalletStore()
 const System = useSystemStore()
 
 const PRO_BASE_RATE = 50
